@@ -1,7 +1,7 @@
 {
-  "name": "multiplayerbooks",
+  "name": "node-react-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "A nodejs and react/redux template to be used on heroku",
   "main": "index.js",
   "scripts": {
     "start": "node server",
@@ -9,12 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heroku/node-js-getting-started.git"
+    "url": "git+https://github.com/TheFloatingTree/node-react-template.git"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/heroku/node-js-getting-started/issues"
-  },
-  "homepage": "https://github.com/heroku/node-js-getting-started#readme"
+  "author": "thefloatingtree",
+  "license": "ISC"
 }
