@@ -1,0 +1,6 @@
+{
+  "name": "Multiplayer Books",
+  "description": "A web app for reading books together.",
+  "repository": "",
+  "image": "heroku/nodejs"
+}
